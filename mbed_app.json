@@ -1,0 +1,11 @@
+{
+    "config": {
+    },
+    "macros": [],
+    "target_overrides": {
+        "*": {
+            "platform.stdio-baud-rate": 115200,
+            "platform.minimal-printf-enable-floating-point": 1
+        }
+    }
+}

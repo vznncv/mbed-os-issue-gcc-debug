@@ -1,0 +1,22 @@
+# IDE files
+/.idea
+/*.config
+/*.creator
+/*.files
+/*.includes
+/*.cflags
+/*.creator.*
+/*.cxxflags
+*.autosave
+
+# Temporary/volatile mbed files
+/GettingStarted.html
+/mbed_settings.py
+
+# python files
+__pycache__/
+*.py[cod]
+
+# local STM tools configuration
+cube_path.json
+/BUILD
